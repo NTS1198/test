@@ -1,0 +1,151 @@
+/***Tag Selectors***/
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  font-family: 'Mulish', sans-serif;
+  font-weight: 400;
+}
+
+div {
+  margin: 0;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Muslish', sans-serif;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 2;
+  margin: 50px 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Mulish', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  height: 5px;
+}
+
+/***Class Selectors***/
+.angela-img {
+  width: 20%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 200px;
+  left: 200px
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.btn-contact-me {
+  margin: 40px 0;
+}
+
+.btn {
+  background: #66bfbf;
+  border-radius: 5px;
+  font-family: 'Mulish', sans-serif;
+  color: #ffffff;
+  font-size: .875rem;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.chillies-img {
+  width: 20%;
+  float: left;
+  margin: 0 30px 0 0;
+}
+
+.computer-img {
+  width: 20%;
+  float: right;
+  margin: 0 0 0 30px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: auto;
+}
+
+.copyright {
+  color: #ffffff;
+  font-family: 'Muslish', sans-serif;
+  font-size: .875rem;
+  font-weight: 400;
+  margin: 20px;
+}
+
+.de {
+  text-decoration: underline;
+}
+
+.footer-link {
+  color: #11999e;
+  font-family: 'Mulish', sans-serif;
+  font-size: .875rem;
+  font-weight: 400;
+  margin: 20px;
+}
+
+.middle-container {
+  text-align: center;
+  margin: 50px 0 50px 0;
+  padding: 50px 0 0 0;
+}
+
+.profile {
+  width: 40%;
+  margin: 50px auto 50px auto;
+}
+
+.profile-text {
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  line-height: 2;
+  margin: 150px auto;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  text-align: center;
+  position: relative;
+  padding-top: 50px;
+}
